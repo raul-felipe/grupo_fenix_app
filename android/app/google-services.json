@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "501601425155",
+    "firebase_url": "https://cleanmanager-11e08.firebaseio.com",
+    "project_id": "cleanmanager-11e08",
+    "storage_bucket": "cleanmanager-11e08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501601425155:android:d82983de617748e0",
+        "android_client_info": {
+          "package_name": "raulalmeida.grupo_fenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501601425155-c8p0di0lniatodcc4gc2994bkphe7p3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlH2t9c49QteBHtUXdHImYlPDOO-U1qE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501601425155-c8p0di0lniatodcc4gc2994bkphe7p3m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "501601425155-e9cq9da760jukjl9bifa8ep7grhcc5ai.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "raulalmeida.grupo_fenix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
